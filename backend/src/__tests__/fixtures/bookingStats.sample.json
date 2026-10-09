@@ -1,0 +1,3222 @@
+[
+  {
+    "visit_date": "2026-10-05",
+    "zones": {
+      "Zone 1": 25,
+      "Zone 10": 33,
+      "Zone 10-Current": 0,
+      "Zone 2": 1,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 40,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 20,
+      "Zone 8-Current": 0,
+      "Zone 9": 134,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-06",
+    "zones": {
+      "Zone 1": 28,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 14,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 24,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-10-07",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 25,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 27,
+      "Zone 6-Current": 0,
+      "Zone 7": 6,
+      "Zone 7-Current": 0,
+      "Zone 8": 4,
+      "Zone 8-Current": 0,
+      "Zone 9": 49,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-08",
+    "zones": {
+      "Zone 1": 53,
+      "Zone 10": 96,
+      "Zone 10-Current": 0,
+      "Zone 2": 18,
+      "Zone 3": 0,
+      "Zone 4": 1,
+      "Zone 5": 36,
+      "Zone 6": 42,
+      "Zone 6-Current": 0,
+      "Zone 7": 16,
+      "Zone 7-Current": 0,
+      "Zone 8": 63,
+      "Zone 8-Current": 0,
+      "Zone 9": 133,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-09",
+    "zones": {
+      "Zone 1": 42,
+      "Zone 10": 195,
+      "Zone 10-Current": 0,
+      "Zone 2": 24,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 48,
+      "Zone 6": 27,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 35,
+      "Zone 8-Current": 0,
+      "Zone 9": 227,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-10",
+    "zones": {
+      "Zone 1": 24,
+      "Zone 10": 3,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 36,
+      "Zone 6": 18,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 30,
+      "Zone 8-Current": 0,
+      "Zone 9": 31,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-11",
+    "zones": {
+      "Zone 1": 48,
+      "Zone 10": 128,
+      "Zone 10-Current": 0,
+      "Zone 2": 18,
+      "Zone 3": 6,
+      "Zone 4": 6,
+      "Zone 5": 42,
+      "Zone 6": 36,
+      "Zone 6-Current": 0,
+      "Zone 7": 20,
+      "Zone 7-Current": 0,
+      "Zone 8": 74,
+      "Zone 8-Current": 0,
+      "Zone 9": 254,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-12",
+    "zones": {
+      "Zone 1": 48,
+      "Zone 10": 96,
+      "Zone 10-Current": 0,
+      "Zone 2": 24,
+      "Zone 3": 0,
+      "Zone 4": 12,
+      "Zone 5": 48,
+      "Zone 6": 93,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 30,
+      "Zone 8-Current": 0,
+      "Zone 9": 149,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-13",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-10-14",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-15",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 1,
+      "Zone 6": 2,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-16",
+    "zones": {
+      "Zone 1": 2,
+      "Zone 10": 119,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 1,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 213,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-17",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 156,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 1,
+      "Zone 6": 83,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 30,
+      "Zone 8-Current": 0,
+      "Zone 9": 217,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-18",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 110,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 194,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-19",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 169,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-20",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-10-21",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 23,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-22",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 86,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 168,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-23",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 1,
+      "Zone 8-Current": 0,
+      "Zone 9": 5,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-24",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 155,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-25",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 13,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 1,
+      "Zone 6": 6,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 67,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-26",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 30,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 101,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-27",
+    "zones": {
+      "Zone 1": 1,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 1,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-10-28",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 74,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 34,
+      "Zone 8-Current": 0,
+      "Zone 9": 217,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-29",
+    "zones": {
+      "Zone 1": 66,
+      "Zone 10": 200,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 99,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 61,
+      "Zone 8-Current": 0,
+      "Zone 9": 232,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-30",
+    "zones": {
+      "Zone 1": 6,
+      "Zone 10": 200,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 9,
+      "Zone 6": 160,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 200,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-10-31",
+    "zones": {
+      "Zone 1": 24,
+      "Zone 10": 178,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 1,
+      "Zone 6": 101,
+      "Zone 6-Current": 0,
+      "Zone 7": 1,
+      "Zone 7-Current": 0,
+      "Zone 8": 3,
+      "Zone 8-Current": 0,
+      "Zone 9": 212,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-01",
+    "zones": {
+      "Zone 1": 1,
+      "Zone 10": 204,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 54,
+      "Zone 6-Current": 0,
+      "Zone 7": 37,
+      "Zone 7-Current": 0,
+      "Zone 8": 82,
+      "Zone 8-Current": 0,
+      "Zone 9": 248,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-02",
+    "zones": {
+      "Zone 1": 5,
+      "Zone 10": 201,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 90,
+      "Zone 6-Current": 0,
+      "Zone 7": 1,
+      "Zone 7-Current": 0,
+      "Zone 8": 25,
+      "Zone 8-Current": 0,
+      "Zone 9": 247,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-03",
+    "zones": {
+      "Zone 1": 4,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-11-04",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 10,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 186,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-05",
+    "zones": {
+      "Zone 1": 14,
+      "Zone 10": 176,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 100,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 200,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-06",
+    "zones": {
+      "Zone 1": 71,
+      "Zone 10": 200,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 24,
+      "Zone 6": 163,
+      "Zone 6-Current": 0,
+      "Zone 7": 1,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 200,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-07",
+    "zones": {
+      "Zone 1": 99,
+      "Zone 10": 200,
+      "Zone 10-Current": 0,
+      "Zone 2": 34,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 120,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 1,
+      "Zone 7-Current": 0,
+      "Zone 8": 2,
+      "Zone 8-Current": 0,
+      "Zone 9": 215,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-08",
+    "zones": {
+      "Zone 1": 1,
+      "Zone 10": 201,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 158,
+      "Zone 6-Current": 0,
+      "Zone 7": 2,
+      "Zone 7-Current": 0,
+      "Zone 8": 1,
+      "Zone 8-Current": 0,
+      "Zone 9": 200,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-09",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 68,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 6,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 100,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-10",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-11-11",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-12",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-13",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 1,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-14",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 2,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-15",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 100,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 1,
+      "Zone 6": 1,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 1,
+      "Zone 8-Current": 0,
+      "Zone 9": 164,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-16",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 3,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 2,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 115,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-17",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-11-18",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 38,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 2,
+      "Zone 8-Current": 0,
+      "Zone 9": 87,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-19",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 154,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 49,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 1,
+      "Zone 8-Current": 0,
+      "Zone 9": 196,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-20",
+    "zones": {
+      "Zone 1": 32,
+      "Zone 10": 172,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 1,
+      "Zone 6": 100,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 1,
+      "Zone 8-Current": 0,
+      "Zone 9": 180,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-21",
+    "zones": {
+      "Zone 1": 1,
+      "Zone 10": 194,
+      "Zone 10-Current": 0,
+      "Zone 2": 2,
+      "Zone 3": 0,
+      "Zone 4": 1,
+      "Zone 5": 4,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 7,
+      "Zone 8-Current": 0,
+      "Zone 9": 216,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-22",
+    "zones": {
+      "Zone 1": 1,
+      "Zone 10": 121,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 1,
+      "Zone 5": 0,
+      "Zone 6": 48,
+      "Zone 6-Current": 0,
+      "Zone 7": 1,
+      "Zone 7-Current": 0,
+      "Zone 8": 30,
+      "Zone 8-Current": 0,
+      "Zone 9": 228,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-23",
+    "zones": {
+      "Zone 1": 2,
+      "Zone 10": 196,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 53,
+      "Zone 6-Current": 0,
+      "Zone 7": 1,
+      "Zone 7-Current": 0,
+      "Zone 8": 1,
+      "Zone 8-Current": 0,
+      "Zone 9": 201,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-24",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 1,
+      "Zone 4": 1,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-11-25",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 38,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 19,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 196,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-26",
+    "zones": {
+      "Zone 1": 23,
+      "Zone 10": 202,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 8,
+      "Zone 6": 168,
+      "Zone 6-Current": 0,
+      "Zone 7": 4,
+      "Zone 7-Current": 0,
+      "Zone 8": 80,
+      "Zone 8-Current": 0,
+      "Zone 9": 236,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-27",
+    "zones": {
+      "Zone 1": 39,
+      "Zone 10": 203,
+      "Zone 10-Current": 0,
+      "Zone 2": 19,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 51,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 6,
+      "Zone 7-Current": 0,
+      "Zone 8": 59,
+      "Zone 8-Current": 0,
+      "Zone 9": 232,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-28",
+    "zones": {
+      "Zone 1": 143,
+      "Zone 10": 201,
+      "Zone 10-Current": 0,
+      "Zone 2": 2,
+      "Zone 3": 0,
+      "Zone 4": 1,
+      "Zone 5": 142,
+      "Zone 6": 199,
+      "Zone 6-Current": 0,
+      "Zone 7": 3,
+      "Zone 7-Current": 0,
+      "Zone 8": 41,
+      "Zone 8-Current": 0,
+      "Zone 9": 234,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-29",
+    "zones": {
+      "Zone 1": 61,
+      "Zone 10": 202,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 1,
+      "Zone 5": 30,
+      "Zone 6": 154,
+      "Zone 6-Current": 0,
+      "Zone 7": 1,
+      "Zone 7-Current": 0,
+      "Zone 8": 70,
+      "Zone 8-Current": 0,
+      "Zone 9": 234,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-11-30",
+    "zones": {
+      "Zone 1": 149,
+      "Zone 10": 218,
+      "Zone 10-Current": 0,
+      "Zone 2": 33,
+      "Zone 3": 1,
+      "Zone 4": 17,
+      "Zone 5": 199,
+      "Zone 6": 201,
+      "Zone 6-Current": 0,
+      "Zone 7": 65,
+      "Zone 7-Current": 0,
+      "Zone 8": 94,
+      "Zone 8-Current": 0,
+      "Zone 9": 254,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-01",
+    "zones": {
+      "Zone 1": 42,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 1,
+      "Zone 3": 2,
+      "Zone 4": 0,
+      "Zone 5": 83,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-12-02",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 209,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 108,
+      "Zone 6-Current": 0,
+      "Zone 7": 33,
+      "Zone 7-Current": 0,
+      "Zone 8": 84,
+      "Zone 8-Current": 0,
+      "Zone 9": 260,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-03",
+    "zones": {
+      "Zone 1": 160,
+      "Zone 10": 212,
+      "Zone 10-Current": 0,
+      "Zone 2": 71,
+      "Zone 3": 14,
+      "Zone 4": 8,
+      "Zone 5": 200,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 65,
+      "Zone 7-Current": 0,
+      "Zone 8": 90,
+      "Zone 8-Current": 0,
+      "Zone 9": 254,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-04",
+    "zones": {
+      "Zone 1": 160,
+      "Zone 10": 202,
+      "Zone 10-Current": 0,
+      "Zone 2": 114,
+      "Zone 3": 108,
+      "Zone 4": 56,
+      "Zone 5": 198,
+      "Zone 6": 201,
+      "Zone 6-Current": 0,
+      "Zone 7": 32,
+      "Zone 7-Current": 0,
+      "Zone 8": 87,
+      "Zone 8-Current": 0,
+      "Zone 9": 242,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-05",
+    "zones": {
+      "Zone 1": 160,
+      "Zone 10": 212,
+      "Zone 10-Current": 0,
+      "Zone 2": 120,
+      "Zone 3": 23,
+      "Zone 4": 58,
+      "Zone 5": 197,
+      "Zone 6": 201,
+      "Zone 6-Current": 0,
+      "Zone 7": 64,
+      "Zone 7-Current": 0,
+      "Zone 8": 82,
+      "Zone 8-Current": 0,
+      "Zone 9": 254,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-06",
+    "zones": {
+      "Zone 1": 115,
+      "Zone 10": 248,
+      "Zone 10-Current": 0,
+      "Zone 2": 73,
+      "Zone 3": 0,
+      "Zone 4": 104,
+      "Zone 5": 175,
+      "Zone 6": 203,
+      "Zone 6-Current": 0,
+      "Zone 7": 82,
+      "Zone 7-Current": 0,
+      "Zone 8": 108,
+      "Zone 8-Current": 0,
+      "Zone 9": 254,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-07",
+    "zones": {
+      "Zone 1": 158,
+      "Zone 10": 234,
+      "Zone 10-Current": 0,
+      "Zone 2": 78,
+      "Zone 3": 12,
+      "Zone 4": 49,
+      "Zone 5": 189,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 72,
+      "Zone 7-Current": 0,
+      "Zone 8": 108,
+      "Zone 8-Current": 0,
+      "Zone 9": 260,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-08",
+    "zones": {
+      "Zone 1": 154,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 78,
+      "Zone 3": 42,
+      "Zone 4": 12,
+      "Zone 5": 200,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-12-09",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 213,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 148,
+      "Zone 6-Current": 0,
+      "Zone 7": 42,
+      "Zone 7-Current": 0,
+      "Zone 8": 97,
+      "Zone 8-Current": 0,
+      "Zone 9": 258,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-10",
+    "zones": {
+      "Zone 1": 156,
+      "Zone 10": 256,
+      "Zone 10-Current": 0,
+      "Zone 2": 104,
+      "Zone 3": 13,
+      "Zone 4": 100,
+      "Zone 5": 195,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 88,
+      "Zone 7-Current": 0,
+      "Zone 8": 106,
+      "Zone 8-Current": 0,
+      "Zone 9": 260,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-11",
+    "zones": {
+      "Zone 1": 160,
+      "Zone 10": 233,
+      "Zone 10-Current": 0,
+      "Zone 2": 119,
+      "Zone 3": 79,
+      "Zone 4": 93,
+      "Zone 5": 200,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 99,
+      "Zone 7-Current": 0,
+      "Zone 8": 108,
+      "Zone 8-Current": 0,
+      "Zone 9": 260,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-12",
+    "zones": {
+      "Zone 1": 159,
+      "Zone 10": 248,
+      "Zone 10-Current": 0,
+      "Zone 2": 134,
+      "Zone 3": 62,
+      "Zone 4": 75,
+      "Zone 5": 200,
+      "Zone 6": 215,
+      "Zone 6-Current": 0,
+      "Zone 7": 65,
+      "Zone 7-Current": 0,
+      "Zone 8": 96,
+      "Zone 8-Current": 0,
+      "Zone 9": 254,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-13",
+    "zones": {
+      "Zone 1": 160,
+      "Zone 10": 232,
+      "Zone 10-Current": 0,
+      "Zone 2": 153,
+      "Zone 3": 56,
+      "Zone 4": 137,
+      "Zone 5": 201,
+      "Zone 6": 202,
+      "Zone 6-Current": 0,
+      "Zone 7": 94,
+      "Zone 7-Current": 0,
+      "Zone 8": 102,
+      "Zone 8-Current": 0,
+      "Zone 9": 254,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-14",
+    "zones": {
+      "Zone 1": 160,
+      "Zone 10": 253,
+      "Zone 10-Current": 0,
+      "Zone 2": 131,
+      "Zone 3": 110,
+      "Zone 4": 124,
+      "Zone 5": 200,
+      "Zone 6": 211,
+      "Zone 6-Current": 0,
+      "Zone 7": 87,
+      "Zone 7-Current": 0,
+      "Zone 8": 108,
+      "Zone 8-Current": 0,
+      "Zone 9": 260,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-15",
+    "zones": {
+      "Zone 1": 161,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 110,
+      "Zone 3": 2,
+      "Zone 4": 3,
+      "Zone 5": 200,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-12-16",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 206,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 183,
+      "Zone 6-Current": 0,
+      "Zone 7": 61,
+      "Zone 7-Current": 0,
+      "Zone 8": 108,
+      "Zone 8-Current": 0,
+      "Zone 9": 254,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-17",
+    "zones": {
+      "Zone 1": 158,
+      "Zone 10": 258,
+      "Zone 10-Current": 0,
+      "Zone 2": 94,
+      "Zone 3": 35,
+      "Zone 4": 74,
+      "Zone 5": 200,
+      "Zone 6": 236,
+      "Zone 6-Current": 0,
+      "Zone 7": 108,
+      "Zone 7-Current": 0,
+      "Zone 8": 108,
+      "Zone 8-Current": 0,
+      "Zone 9": 254,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-18",
+    "zones": {
+      "Zone 1": 156,
+      "Zone 10": 252,
+      "Zone 10-Current": 0,
+      "Zone 2": 125,
+      "Zone 3": 38,
+      "Zone 4": 42,
+      "Zone 5": 201,
+      "Zone 6": 208,
+      "Zone 6-Current": 0,
+      "Zone 7": 96,
+      "Zone 7-Current": 0,
+      "Zone 8": 108,
+      "Zone 8-Current": 0,
+      "Zone 9": 260,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-19",
+    "zones": {
+      "Zone 1": 157,
+      "Zone 10": 240,
+      "Zone 10-Current": 0,
+      "Zone 2": 108,
+      "Zone 3": 0,
+      "Zone 4": 52,
+      "Zone 5": 195,
+      "Zone 6": 201,
+      "Zone 6-Current": 0,
+      "Zone 7": 90,
+      "Zone 7-Current": 0,
+      "Zone 8": 108,
+      "Zone 8-Current": 0,
+      "Zone 9": 260,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-20",
+    "zones": {
+      "Zone 1": 160,
+      "Zone 10": 240,
+      "Zone 10-Current": 0,
+      "Zone 2": 132,
+      "Zone 3": 2,
+      "Zone 4": 118,
+      "Zone 5": 198,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 42,
+      "Zone 7-Current": 0,
+      "Zone 8": 108,
+      "Zone 8-Current": 0,
+      "Zone 9": 260,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-21",
+    "zones": {
+      "Zone 1": 161,
+      "Zone 10": 230,
+      "Zone 10-Current": 0,
+      "Zone 2": 87,
+      "Zone 3": 29,
+      "Zone 4": 64,
+      "Zone 5": 194,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 75,
+      "Zone 7-Current": 0,
+      "Zone 8": 96,
+      "Zone 8-Current": 0,
+      "Zone 9": 260,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-22",
+    "zones": {
+      "Zone 1": 149,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 84,
+      "Zone 3": 0,
+      "Zone 4": 5,
+      "Zone 5": 193,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-12-23",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 194,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 113,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 4,
+      "Zone 8-Current": 0,
+      "Zone 9": 230,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-24",
+    "zones": {
+      "Zone 1": 76,
+      "Zone 10": 200,
+      "Zone 10-Current": 0,
+      "Zone 2": 34,
+      "Zone 3": 0,
+      "Zone 4": 61,
+      "Zone 5": 118,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 5,
+      "Zone 7-Current": 0,
+      "Zone 8": 67,
+      "Zone 8-Current": 0,
+      "Zone 9": 248,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-25",
+    "zones": {
+      "Zone 1": 42,
+      "Zone 10": 200,
+      "Zone 10-Current": 0,
+      "Zone 2": 1,
+      "Zone 3": 0,
+      "Zone 4": 1,
+      "Zone 5": 70,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 1,
+      "Zone 7-Current": 0,
+      "Zone 8": 1,
+      "Zone 8-Current": 0,
+      "Zone 9": 207,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-26",
+    "zones": {
+      "Zone 1": 62,
+      "Zone 10": 200,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 1,
+      "Zone 5": 95,
+      "Zone 6": 196,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 1,
+      "Zone 8-Current": 0,
+      "Zone 9": 201,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-27",
+    "zones": {
+      "Zone 1": 67,
+      "Zone 10": 200,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 66,
+      "Zone 6": 197,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 63,
+      "Zone 8-Current": 0,
+      "Zone 9": 219,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-28",
+    "zones": {
+      "Zone 1": 73,
+      "Zone 10": 195,
+      "Zone 10-Current": 0,
+      "Zone 2": 2,
+      "Zone 3": 1,
+      "Zone 4": 0,
+      "Zone 5": 120,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 25,
+      "Zone 8-Current": 0,
+      "Zone 9": 206,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-29",
+    "zones": {
+      "Zone 1": 100,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 2,
+      "Zone 3": 1,
+      "Zone 4": 1,
+      "Zone 5": 122,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2026-12-30",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 182,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 108,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 2,
+      "Zone 8-Current": 0,
+      "Zone 9": 193,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2026-12-31",
+    "zones": {
+      "Zone 1": 153,
+      "Zone 10": 204,
+      "Zone 10-Current": 0,
+      "Zone 2": 96,
+      "Zone 3": 1,
+      "Zone 4": 1,
+      "Zone 5": 200,
+      "Zone 6": 200,
+      "Zone 6-Current": 0,
+      "Zone 7": 1,
+      "Zone 7-Current": 0,
+      "Zone 8": 88,
+      "Zone 8-Current": 0,
+      "Zone 9": 242,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-01",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-02",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-03",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-04",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-05",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2027-01-06",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-07",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-08",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-09",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-10",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-11",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-12",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2027-01-13",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-14",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-15",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-16",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-17",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-18",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-19",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2027-01-20",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-21",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-22",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-23",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-24",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-25",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-26",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2027-01-27",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-28",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-29",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-30",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-01-31",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-01",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-02",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2027-02-03",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-04",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-05",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-06",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-07",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-08",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-09",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2027-02-10",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-11",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-12",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-13",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-14",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-15",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-16",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2027-02-17",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-18",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-19",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-20",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-21",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-22",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-23",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2027-02-24",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-25",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-26",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-27",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-02-28",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-03-01",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-03-02",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2027-03-03",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-03-04",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-03-05",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-03-06",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-03-07",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-03-08",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-03-09",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": null,
+      "Zone 10-Current": null,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": null,
+      "Zone 6-Current": null,
+      "Zone 7": null,
+      "Zone 7-Current": null,
+      "Zone 8": null,
+      "Zone 8-Current": null,
+      "Zone 9": null,
+      "Zone 9-Current": null
+    }
+  },
+  {
+    "visit_date": "2027-03-10",
+    "zones": {
+      "Zone 1": null,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": null,
+      "Zone 3": null,
+      "Zone 4": null,
+      "Zone 5": null,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-03-11",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-03-12",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-03-13",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  },
+  {
+    "visit_date": "2027-03-14",
+    "zones": {
+      "Zone 1": 0,
+      "Zone 10": 0,
+      "Zone 10-Current": 0,
+      "Zone 2": 0,
+      "Zone 3": 0,
+      "Zone 4": 0,
+      "Zone 5": 0,
+      "Zone 6": 0,
+      "Zone 6-Current": 0,
+      "Zone 7": 0,
+      "Zone 7-Current": 0,
+      "Zone 8": 0,
+      "Zone 8-Current": 0,
+      "Zone 9": 0,
+      "Zone 9-Current": 0
+    }
+  }
+]
